@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://tetris3d-58ecb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">198221759595</string>
+  <string name="google_storage_bucket" translatable="false">tetris3d-58ecb.appspot.com</string>
+  <string name="project_id" translatable="false">tetris3d-58ecb</string>
+  <string name="google_api_key" translatable="false">AIzaSyDQC76YWq_a_RamwTjbOKReznR4GxQRgaI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDQC76YWq_a_RamwTjbOKReznR4GxQRgaI</string>
+  <string name="google_app_id" translatable="false">1:198221759595:android:43f1c3f80b2d98cb</string>
+  <string name="default_web_client_id" translatable="false">198221759595-85accuvdsfu7j74cfkn10e3ajfd4gstt.apps.googleusercontent.com</string>
+</resources>

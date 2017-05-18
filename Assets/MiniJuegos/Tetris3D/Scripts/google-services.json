@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "198221759595",
+    "firebase_url": "https://tetris3d-58ecb.firebaseio.com",
+    "project_id": "tetris3d-58ecb",
+    "storage_bucket": "tetris3d-58ecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198221759595:android:43f1c3f80b2d98cb",
+        "android_client_info": {
+          "package_name": "com.Ecaib.Tetris3D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198221759595-85accuvdsfu7j74cfkn10e3ajfd4gstt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQC76YWq_a_RamwTjbOKReznR4GxQRgaI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
